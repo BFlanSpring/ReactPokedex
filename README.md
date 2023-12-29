@@ -1,3 +1,25 @@
+# Pokedex App
+
+A simple Pokedex application displaying Pokemon cards using React.
+
+## Overview
+
+This project demonstrates a basic Pokedex application built with React. It displays Pokemon cards with their name, image, type, and base experience. The cards are styled to resemble a Pokemon trading card.
+
+## Features
+
+- Displays Pokemon cards with information like name, image, type, and base experience.
+- Uses default Pokemon data with images fetched from the PokeAPI.
+
+## Project Structure
+
+The project is structured as follows:
+
+- **src/**
+  - **App.js:** Top-level component rendering the Pokedex.
+  - **Pokedex.js:** Component rendering a sequence of Pokecard components.
+  - **Pokecard.js:** Component displaying a single Pokemon.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
